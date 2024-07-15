@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="destinations_array">
+        <item>New York</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>Sydney</item>
+        <item>Rome</item>
+        <!-- Add more destinations as needed -->
+    </string-array>
+    <string name="TravelPlanner" />
+</resources>
